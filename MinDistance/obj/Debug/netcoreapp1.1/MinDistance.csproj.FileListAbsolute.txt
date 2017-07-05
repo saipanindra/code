@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/MinDistance/bin/Debug/netcoreapp1.1/MinDistance.deps.json
+/Users/saipaleti/Desktop/code/MinDistance/bin/Debug/netcoreapp1.1/MinDistance.runtimeconfig.json
+/Users/saipaleti/Desktop/code/MinDistance/bin/Debug/netcoreapp1.1/MinDistance.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/MinDistance/bin/Debug/netcoreapp1.1/MinDistance.dll
+/Users/saipaleti/Desktop/code/MinDistance/bin/Debug/netcoreapp1.1/MinDistance.pdb
+/Users/saipaleti/Desktop/code/MinDistance/obj/Debug/netcoreapp1.1/MinDistance.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/MinDistance/obj/Debug/netcoreapp1.1/MinDistance.dll
+/Users/saipaleti/Desktop/code/MinDistance/obj/Debug/netcoreapp1.1/MinDistance.pdb

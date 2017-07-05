@@ -1,0 +1,117 @@
+1)
+// A = [0, 1, 2, 3,0 ,4 , 5, 0]
+// no locks
+create P threads // O(P)
+init them // O(P)
+start P threads // O(P)
+for thread in threads
+   wait(thread) // O(N/P)
+counter = 0
+for thread in threads  //O(P)
+   counter = counter + thread.counter;
+   // Code in thread O(N/P)
+   local counter = 0 
+   for i in start..end
+     if(A[i] = 0) local counter++
+   
+   //infinite cores
+   launch hierarchy of threads
+
+   //Time complexity
+   for parallel computation with p processors: O(n/p)
+   for lock version (non parallel) : O(n)
+
+
+  O(N/P + P)
+  N< P ^2
+  p > sqrt(N) 
+
+  2)
+  S = ()((()))(
+      --
+openCounter
+criteria for valid paranthesis
+: global counter is 0 at the end of processing
+: never negative at any point in computation.
+
+
+why; low point
+T1
+(()() +1 lowpoint = 0
+T2
+)))((() -1 lowpoint = -3
+
+caveats:
+global + lowpoint ever negative? then invalid paranthesis
+main threads reads thread values only after all of them terminate.
+order of results of the threads still needs to be maintained
+summing totals sequentially doesn't get mid misbeahvior( going below 0)
+
+T1
+()( lowpoint = 0 local total = 1
+T2
+(() lowpoint  = 0 local total = 1
+T3
+)) low point = -2 local total = -2
+
+global counter = 0
+0 + local total 1 + low point 1 + local total 2 + low point 2.... 
+return false if above computation is ever negative 
+
+
+At some point having too small of work for each threads is counter productive
+eg: one paranthesis for each processor, then main thread doesn't jump many paranthesis instead does sequential.
+
+Can we do better than sqrt(N) processors?
+
+main (0..N) -> (0..N/2)   (N/2...N) -> (0..N/4)(N/4..N/8)
+
+
+this.total = c1.total + c2.total
+this.low = min(c1.low, c1.total + c2.low)
+
+T(n) = O(1) + T(n/2)
+T(n) = log(n) -> Optimally parallelizable. (Given infinite # of processors, if we can get a log(n) algorithm)
+
+
+3)
+longest contiguous paranthesis substring that has equal number of opening and closing paranthesis.
+   (   (    (    )    )
+
+0  1   2    3    2    1  --> global count
+
+   0   1    2    3    4  --> indices
+
+ //where is first time I found each value (Hash map)
+ 0 - > 0
+1 - > 1
+2 -> 2
+3 -> 3
+
+way to a parallel algorithm:
+step 1: 
+try to find two duplicates furthest apart.
+Quick sort, merge sort , radix sort parallizable easily
+
+Array of global counts
+[2, 3, 5, 3, 2]
+
+[(2,0), (3, 1), (5, 2), (3,3), (2,4)]
+
+((2, 0), (2, 4), (3, 1), (3,3), (5, 2)) -- sorted by value, index
+
+how to make count array out of paranthesis array 
+
+
+spl condition check: every thread looks at last element in its last peer and first element in next peer.
+If same, main thread can discard that threads data
+
+
+step 1: offset calculation
+main
+final numbers
+main
+parallel sort
+main
+report threads that can be removed
+main

@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/bin/Debug/netcoreapp1.1/RecursiveMultiplication.deps.json
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/bin/Debug/netcoreapp1.1/RecursiveMultiplication.runtimeconfig.json
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/bin/Debug/netcoreapp1.1/RecursiveMultiplication.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/bin/Debug/netcoreapp1.1/RecursiveMultiplication.dll
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/bin/Debug/netcoreapp1.1/RecursiveMultiplication.pdb
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/obj/Debug/netcoreapp1.1/RecursiveMultiplication.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/obj/Debug/netcoreapp1.1/RecursiveMultiplication.dll
+/Users/saipaleti/Desktop/code/algo-1/RecursiveMultiplication/obj/Debug/netcoreapp1.1/RecursiveMultiplication.pdb

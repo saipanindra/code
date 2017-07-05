@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/bin/Debug/netcoreapp1.1/MinimumTimeForTasks.deps.json
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/bin/Debug/netcoreapp1.1/MinimumTimeForTasks.runtimeconfig.json
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/bin/Debug/netcoreapp1.1/MinimumTimeForTasks.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/bin/Debug/netcoreapp1.1/MinimumTimeForTasks.dll
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/bin/Debug/netcoreapp1.1/MinimumTimeForTasks.pdb
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/obj/Debug/netcoreapp1.1/MinimumTimeForTasks.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/obj/Debug/netcoreapp1.1/MinimumTimeForTasks.dll
+/Users/saipaleti/Desktop/code/MinimumTimeForTasks/obj/Debug/netcoreapp1.1/MinimumTimeForTasks.pdb
