@@ -1,0 +1,9 @@
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.deps.json
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.runtimeconfig.json
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.runtimeconfig.dev.json
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.csprojResolveAssemblyReference.cache
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.AssemblyInfo.cs
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.dll
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\bin\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.pdb
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.dll
+C:\Users\saipa\code\ExclusiveTimeOfFunctions\obj\Debug\netcoreapp1.1\ExclusiveTimeOfFunctions.pdb
