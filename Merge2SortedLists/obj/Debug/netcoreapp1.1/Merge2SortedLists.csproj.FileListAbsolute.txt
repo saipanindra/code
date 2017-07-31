@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/Merge2SortedLists/bin/Debug/netcoreapp1.1/Merge2SortedLists.deps.json
+/Users/saipaleti/Desktop/code/Merge2SortedLists/bin/Debug/netcoreapp1.1/Merge2SortedLists.runtimeconfig.json
+/Users/saipaleti/Desktop/code/Merge2SortedLists/bin/Debug/netcoreapp1.1/Merge2SortedLists.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/Merge2SortedLists/bin/Debug/netcoreapp1.1/Merge2SortedLists.dll
+/Users/saipaleti/Desktop/code/Merge2SortedLists/bin/Debug/netcoreapp1.1/Merge2SortedLists.pdb
+/Users/saipaleti/Desktop/code/Merge2SortedLists/obj/Debug/netcoreapp1.1/Merge2SortedLists.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/Merge2SortedLists/obj/Debug/netcoreapp1.1/Merge2SortedLists.dll
+/Users/saipaleti/Desktop/code/Merge2SortedLists/obj/Debug/netcoreapp1.1/Merge2SortedLists.pdb
