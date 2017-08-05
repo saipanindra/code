@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/BinaryTreePaths/bin/Debug/netcoreapp1.1/BinaryTreePaths.deps.json
+/Users/saipaleti/Desktop/code/BinaryTreePaths/bin/Debug/netcoreapp1.1/BinaryTreePaths.runtimeconfig.json
+/Users/saipaleti/Desktop/code/BinaryTreePaths/bin/Debug/netcoreapp1.1/BinaryTreePaths.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/BinaryTreePaths/bin/Debug/netcoreapp1.1/BinaryTreePaths.dll
+/Users/saipaleti/Desktop/code/BinaryTreePaths/bin/Debug/netcoreapp1.1/BinaryTreePaths.pdb
+/Users/saipaleti/Desktop/code/BinaryTreePaths/obj/Debug/netcoreapp1.1/BinaryTreePaths.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/BinaryTreePaths/obj/Debug/netcoreapp1.1/BinaryTreePaths.dll
+/Users/saipaleti/Desktop/code/BinaryTreePaths/obj/Debug/netcoreapp1.1/BinaryTreePaths.pdb
