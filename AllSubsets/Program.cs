@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace AllSubsets
 {
+    //https://leetcode.com/problems/subsets/description/
     class Program
     {
         static void Main(string[] args)
