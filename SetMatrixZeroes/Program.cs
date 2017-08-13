@@ -2,6 +2,7 @@
 
 namespace SetMatrixZeroes
 {
+    //https://leetcode.com/problems/set-matrix-zeroes/description/
     class Program
     {
         static void Main(string[] args)
