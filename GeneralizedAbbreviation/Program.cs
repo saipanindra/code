@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 namespace GeneralizedAbbreviation
 {
+    //https://leetcode.com/problems/generalized-abbreviation/description/
     class Program
     {
         static void Main(string[] args)
