@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace TreeBottom
 {
+    //Get farthest leaves from root in a tree where each node is represented as (<root> (<left>)(<right>))
     class Program
     {
         static void Main(string[] args)
@@ -53,12 +54,7 @@ namespace TreeBottom
             }
             return res.ToArray();
         }
-                
-                
-                
-            
-            }
-            
-        }
+    }
+}
     
 
