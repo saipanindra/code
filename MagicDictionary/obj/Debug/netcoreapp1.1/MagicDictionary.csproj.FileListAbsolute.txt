@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/MagicDictionary/bin/Debug/netcoreapp1.1/MagicDictionary.deps.json
+/Users/saipaleti/Desktop/code/MagicDictionary/bin/Debug/netcoreapp1.1/MagicDictionary.runtimeconfig.json
+/Users/saipaleti/Desktop/code/MagicDictionary/bin/Debug/netcoreapp1.1/MagicDictionary.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/MagicDictionary/bin/Debug/netcoreapp1.1/MagicDictionary.dll
+/Users/saipaleti/Desktop/code/MagicDictionary/bin/Debug/netcoreapp1.1/MagicDictionary.pdb
+/Users/saipaleti/Desktop/code/MagicDictionary/obj/Debug/netcoreapp1.1/MagicDictionary.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/MagicDictionary/obj/Debug/netcoreapp1.1/MagicDictionary.dll
+/Users/saipaleti/Desktop/code/MagicDictionary/obj/Debug/netcoreapp1.1/MagicDictionary.pdb
