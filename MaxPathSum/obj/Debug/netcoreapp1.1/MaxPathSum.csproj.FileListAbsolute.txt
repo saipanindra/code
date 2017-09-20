@@ -1,0 +1,8 @@
+/Users/saipaleti/Desktop/code/MaxPathSum/bin/Debug/netcoreapp1.1/MaxPathSum.deps.json
+/Users/saipaleti/Desktop/code/MaxPathSum/bin/Debug/netcoreapp1.1/MaxPathSum.runtimeconfig.json
+/Users/saipaleti/Desktop/code/MaxPathSum/bin/Debug/netcoreapp1.1/MaxPathSum.runtimeconfig.dev.json
+/Users/saipaleti/Desktop/code/MaxPathSum/bin/Debug/netcoreapp1.1/MaxPathSum.dll
+/Users/saipaleti/Desktop/code/MaxPathSum/bin/Debug/netcoreapp1.1/MaxPathSum.pdb
+/Users/saipaleti/Desktop/code/MaxPathSum/obj/Debug/netcoreapp1.1/MaxPathSum.AssemblyInfo.cs
+/Users/saipaleti/Desktop/code/MaxPathSum/obj/Debug/netcoreapp1.1/MaxPathSum.dll
+/Users/saipaleti/Desktop/code/MaxPathSum/obj/Debug/netcoreapp1.1/MaxPathSum.pdb
