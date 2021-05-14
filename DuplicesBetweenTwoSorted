@@ -1,0 +1,41 @@
+//Find duplicates in two sorted arrays. (https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XlA
+
+class Solution {
+
+  static int[] findDuplicates(int[] arr1, int[] arr2) {
+  ArrayList<Integer> result = new ArrayList<>();
+  int firstp = 0;
+  int secondp = 0;
+  
+  while (firstp < arr1.length && secondp < arr2.length)
+  {
+     if (arr1[firstp] == arr2[secondp])
+     {
+        result.add(arr1[firstp]);
+        firstp++;
+        secondp++;
+        //check for out of array bounds
+        
+        
+     }
+     else if (arr1[firstp] < arr2[secondp])
+     {
+         firstp++;
+         //array out of bounds check
+     }
+     else
+     {
+        secondp++;
+       
+     }
+  }
+  
+  return result.stream().mapToInt(i->i).toArray();
+  
+  }
+
+  public static void main(String[] args) {
+
+  }
+
+}
